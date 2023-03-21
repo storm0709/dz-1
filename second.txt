@@ -1,3 +1,4 @@
 My second file
 Hello world
 merge 1
+Merge 2
